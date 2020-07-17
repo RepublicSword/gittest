@@ -13,6 +13,5 @@ edit version!
   </head>
   <body>
 edit on the internet!
-  edit this time.
   </body>
 </html>
