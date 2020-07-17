@@ -12,6 +12,6 @@ edit version!
     <title>$Title$</title>
   </head>
   <body>
-
+edit on the internet!
   </body>
 </html>
